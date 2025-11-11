@@ -2,7 +2,7 @@
 
 Removes the background of **all images** in a Google Drive folder and saves transparent PNGs to a new sibling folder `<name>_no_bg`. Originals remain untouched.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOURUSER/YOURREPO/blob/main/notebooks/remove_bg_drive.ipynb)
+[![Open In Colab]([https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOURUSER/YOURREPO/blob/main/notebooks/remove_bg_drive.ipynb](https://colab.research.google.com/drive/1K0DN9o51jqOztkeIYiunrlVgMmD5rGW_?usp=sharing))
 
 ## Quick start (Colab)
 1. Click the Colab badge above.

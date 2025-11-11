@@ -1,0 +1,8 @@
+rembg
+onnxruntime
+opencv-python-headless
+pillow
+tqdm
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
